@@ -1,1 +1,2 @@
 hello
+change the file password in bugfix-change-password
